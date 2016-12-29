@@ -1,0 +1,11 @@
+main: knife\fc
+api: [2.0.0, 3.0.0, 3.0.0-ALPHA1]
+version: 1.0.0
+name: kFastCoins
+author: KnifeMCPE
+website: https://github.com/knifemcpe/fastcoins
+
+commands:
+ fc:
+ default: op
+ permission: fc.accept
